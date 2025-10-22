@@ -1,0 +1,14 @@
+C:\Users\artur\Documents\Projetos c#\novoTaskool\novoTaskool\novoTaskool\obj\Debug\novoTaskool.csproj.AssemblyReference.cache
+C:\Users\artur\Documents\Projetos c#\novoTaskool\novoTaskool\novoTaskool\obj\Debug\novoTaskool.FormPrincipal.resources
+C:\Users\artur\Documents\Projetos c#\novoTaskool\novoTaskool\novoTaskool\obj\Debug\novoTaskool.Properties.Resources.resources
+C:\Users\artur\Documents\Projetos c#\novoTaskool\novoTaskool\novoTaskool\obj\Debug\novoTaskool.csproj.GenerateResource.cache
+C:\Users\artur\Documents\Projetos c#\novoTaskool\novoTaskool\novoTaskool\obj\Debug\novoTaskool.csproj.CoreCompileInputs.cache
+C:\Users\artur\Documents\Projetos c#\novoTaskool\novoTaskool\novoTaskool\bin\Debug\novoTaskool.exe.config
+C:\Users\artur\Documents\Projetos c#\novoTaskool\novoTaskool\novoTaskool\bin\Debug\novoTaskool.exe
+C:\Users\artur\Documents\Projetos c#\novoTaskool\novoTaskool\novoTaskool\bin\Debug\novoTaskool.pdb
+C:\Users\artur\Documents\Projetos c#\novoTaskool\novoTaskool\novoTaskool\bin\Debug\EntityFramework.dll
+C:\Users\artur\Documents\Projetos c#\novoTaskool\novoTaskool\novoTaskool\bin\Debug\EntityFramework.xml
+C:\Users\artur\Documents\Projetos c#\novoTaskool\novoTaskool\novoTaskool\obj\Debug\novoTask.CCE35848.Up2Date
+C:\Users\artur\Documents\Projetos c#\novoTaskool\novoTaskool\novoTaskool\obj\Debug\novoTaskool.exe
+C:\Users\artur\Documents\Projetos c#\novoTaskool\novoTaskool\novoTaskool\obj\Debug\novoTaskool.pdb
+C:\Users\artur\Documents\Projetos c#\novoTaskool\novoTaskool\novoTaskool\obj\Debug\novoTaskool.exe.config

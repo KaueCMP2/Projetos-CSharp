@@ -1,0 +1,2 @@
+O caps lock para ativar, precisa estar em if e else no txtUser.KeyDown
+
